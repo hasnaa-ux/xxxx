@@ -1,10 +1,10 @@
 <template>
   <the-navigation></the-navigation>
   <main>
-    <router-view>main page</router-view>
+    <router-view>main</router-view>
   </main>
 </template>
-
+      
 <script>
 import TheNavigation from './components/nav/TheNavigation.vue';
 
